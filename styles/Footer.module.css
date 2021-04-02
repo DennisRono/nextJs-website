@@ -1,0 +1,23 @@
+.footer{
+    height: 300px;
+    background-color: rgb(24, 26, 28);
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.copyright{
+    text-align: center;
+    margin-top: 270px;
+}
+.copyright > strong{
+    color: #fff;
+}
+.copyright > hr{
+    color: #fff;
+}
